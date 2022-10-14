@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![profile views](https://komarev.com/ghpvc/?username=candra16ya&color=green)
+![profile views](https://komarev.com/ghpvc/?username=candra16ya&color=green&style=plastic)
 
 **Connect with me**
 <p align="left">
