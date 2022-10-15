@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=candra16ya)
 ![last commit](https://img.shields.io/github/last-commit/candra16ya/candra16ya)
 ![profile views](https://komarev.com/ghpvc/?username=candra16ya&color=green&style=plastic)
 
