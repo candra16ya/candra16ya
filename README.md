@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-![profile views](https://komarev.com/ghpvc/?username=candra16ya&color=green&style=plastic)
+<!-- ![profile views](https://komarev.com/ghpvc/?username=candra16ya&color=green&style=plastic) -->
 ![last commit](https://img.shields.io/github/last-commit/candra16ya/candra16ya)
 
 **Connect with me**
