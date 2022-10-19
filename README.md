@@ -1,6 +1,5 @@
 ### Hi there 👋
 <!-- ![profile views](https://komarev.com/ghpvc/?username=candzon&color=green&style=plastic) -->
-![last commit](https://img.shields.io/github/last-commit/candzon/candzon)
 
 **Connect with me**
 <p align="left">
