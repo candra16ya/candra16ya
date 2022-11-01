@@ -1,5 +1,5 @@
 ### Hi there 👋
-<!-- ![profile views](https://komarev.com/ghpvc/?username=candzon&color=green&style=plastic) -->
+<!-- ![profile views](https://komarev.com/ghpvc/?username=candzon&color=green&style=plastic)
 
 **Connect with me**
 <p align="left">
