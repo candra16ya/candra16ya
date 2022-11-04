@@ -6,5 +6,4 @@
 <a href="https://www.instagram.com/fcandra16/" target="blank"><img align="center" src="https://camo.githubusercontent.com/aecaf87326884e8b0466bb799265a13fee7586246ebda3e066cb7fad82a1fd23/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f696e7374616772616d2e737667" alt="naphl_" height="30" width="40" /></a>
 
 
-| <a href="https://github.com/candzon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=candzon&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Candzon github stats" /></a> | <a href="https://github.com/candzon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=candzon&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=candzon&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
